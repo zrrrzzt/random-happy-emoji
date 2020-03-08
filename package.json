@@ -1,6 +1,6 @@
 {
   "name": "random-happy-emoji",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "Returns a random happy/positive emoji",
   "main": "index.js",
   "engines": {
