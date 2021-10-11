@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.com/zrrrzzt/random-happy-emoji.svg?branch=master)](https://travis-ci.com/zrrrzzt/random-happy-emoji)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 # random-happy-emoji
